@@ -1,0 +1,34 @@
+{
+  "name": "@joi-extensions/iso-country-code",
+  "description": "Joi extensions for ISO 3166-1 alpha-2 country code rules.",
+  "version": "0.0.1",
+  "author": "Albert Hambardzumyan <hambardzumyan.albert@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/AlbertHambardzumyan/joi-extensions-iso-country-code/issues",
+    "email": "hambardzumyan.albert@gmail.com"
+  },
+  "devDependencies": {
+    "chai": "~4.1.2",
+    "mocha": "~5.1.1"
+  },
+  "homepage": "https://github.com/AlbertHambardzumyan/joi-extensions-iso-country-code.git",
+  "keywords": [
+    "3166-1",
+    "ISO",
+    "alpha-2",
+    "code",
+    "country",
+    "extension",
+    "joi",
+    "validation"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbertHambardzumyan/joi-extensions-iso-country-code"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
